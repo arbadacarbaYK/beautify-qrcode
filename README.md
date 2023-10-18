@@ -7,8 +7,6 @@ URL: [qrbtf.com](https://qrbtf.com)
 
 中文介绍: [如何制作一个漂亮的二维码](https://mp.weixin.qq.com/s/_Oy9I9FqPXhfwN9IUhf6_g)
 
-<img align="center" src="https://blog.ciaochaos.com/projects/qrcode/qrs2.jpg" width="500">
-
 ## doc
 
 在线调试 [qrbtf.com](https://qrbtf.com)
@@ -248,7 +246,3 @@ const qrcode= `data:image/svg+xml;base64,` + Base64.encode(base64Svg);
 #### Paypal
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.me/ciaochaos)
-
-#### Alipay
-
-<img align="center" src="https://blog.ciaochaos.com/projects/qrcode/alipay2.jpeg" width="300">
